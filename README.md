@@ -38,9 +38,6 @@ An **Intelligent Library Assistant** that uses OCR (Tesseract.js) to scan and id
 #### 🚗 [Road Lane Detection](https://github.com/muhammadumerrafiq/road-lane-detection)
 An advanced **Computer Vision** project that identifies road lanes in real-time, built for autonomous vehicle systems.
 
-#### 🌐 [I-DAAP Conference](https://github.com/muhammadumerrafiq/i-daapcon)
-A professional, high-performance web application built for the **I-DAAP Conference**, featuring responsive design and high-end aesthetics.
-
 ---
 
 ### 📊 GitHub Stats
